@@ -56,7 +56,7 @@
 }
 
 .article, .question {
-    padding: 0 0 13px;
+    padding: 0 0 30px;
 }
 
 .question__item {
@@ -73,10 +73,11 @@
     height: 20px;
 }
 
-.question__text-question {
+.question__text-question, .block-link__text {
     margin: 0;
 }
 
 .question__text {
-    padding: 20px 5px 0;
+    padding: 20px 10px 0;
+    font-size: 19px;
 }
